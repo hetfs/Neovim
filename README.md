@@ -1,14 +1,12 @@
 # 🧠 Mastering Neovim: A Modern Developer’s Guide
 
-**Neovim** is more than just a text editor it’s a *developer’s power tool*. Built on the legacy of Vim, Neovim enhances the modal, keyboard-driven workflow you love with modern features, extensibility, and blazing speed.
+**Neovim** is more than just a text editor; it’s a *developer’s power tool*. Built on the legacy of Vim, Neovim enhances the modal, keyboard-driven workflow you love with modern features, extensibility, and blazing speed.
+This repository is your **launchpad** for learning and mastering Neovim, whether you’re a Vim veteran or total beginner.
 
-This repository is your **launchpad** for learning and mastering Neovim whether you’re a Vim veteran or total beginner.
-
-[](https://neovim.io)  
-[](LICENSE)  
-[][hetfs (hetfs) / Repositories · GitHub](https://github.com/hetfs?tab=repositories)
-[](https://twitter.com/yourhandle)
-
+[![Neovim Version](https://img.shields.io/badge/Neovim-%3E=0.9.0-brightgreen?logo=neovim)](https://neovim.io)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)](https://github.com/your-username/your-repo)  
+[![Follow @yourhandle](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 ---
 
 ## 🚀 Why Neovim?
@@ -18,7 +16,7 @@ Neovim enhances classic Vim with modern developer tooling:
 - Async everything 💨
 - Lua config for superpowers 💪
 - Built-in LSP & Treesitter 🧠
-- Terminal emulator `:term`
+- Terminal emulator `: term`
 - Cross-platform support ✅
 
 ---
