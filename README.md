@@ -1,12 +1,12 @@
 # 🧠 Mastering Neovim: A Modern Developer’s Guide
 
-**Neovim** is more than just a text editor — it’s a *developer’s power tool*. Built on the legacy of Vim, Neovim enhances the modal, keyboard-driven workflow you love with modern features, extensibility, and blazing speed.
+**Neovim** is more than just a text editor it’s a *developer’s power tool*. Built on the legacy of Vim, Neovim enhances the modal, keyboard-driven workflow you love with modern features, extensibility, and blazing speed.
 
-This repository is your **launchpad** for learning and mastering Neovim — whether you’re a Vim veteran or total beginner.
+This repository is your **launchpad** for learning and mastering Neovim whether you’re a Vim veteran or total beginner.
 
 [](https://neovim.io)  
 [](LICENSE)  
-[](https://github.com/your-username/your-repo)  
+[][hetfs (hetfs) / Repositories · GitHub](https://github.com/hetfs?tab=repositories)
 [](https://twitter.com/yourhandle)
 
 ---
@@ -59,7 +59,7 @@ Neovim enhances classic Vim with modern developer tooling:
 
 ---
 
-## 💼 Why Use [lazy.nvim](https://github.com/folke/lazy.nvim)
+## 💼 Why Use [lazy.nvim](https://lazy.folke.io/)
 
 - 🏎️ **Ultra-fast**: Async install & lazy load
 - 🧩 **Composable**: Plugin ecosystem = clean config
@@ -68,24 +68,12 @@ Neovim enhances classic Vim with modern developer tooling:
 
 ---
 
-## 🖼️ Visuals
-
-### 🧠 Smart Autocomplete (LSP)
-
-### 🎨 Plugin Dashboard (`:Lazy`)
-
-### 🌲 Treesitter Highlighting
-
-> Add your screenshots or gifs to `/assets` and update these links!
-
----
-
 ## 🤘 Ready to Dive In?
 
 Clone the repo, run Neovim, and start building your dream editor.
 
 ```bash
-git clone https://github.com/your-username/your-repo.git ~/.config/nvim
+git clone https://github.com/hetfs/Neovim.git ~/.config/nvim
 nvim
 ```
 
